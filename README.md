@@ -1,2 +1,2 @@
 # Ecommerce_Dataset
-This dataset contains comprehensive e-commerce transaction records, including customer details (name, country, region, state, city), geographic coordinates (latitude, longitude), order specifics (order ID, category, product name, shipping type), and delivery metrics 
+This dataset contains comprehensive e-commerce transaction records, including customer details (name, country, region, state, city), geographic coordinates (latitude, longitude), order specifics (order ID, category, product name, shipping type), and delivery metrics (ship date, delivery status, scheduled and real shipment days). It also includes financial metrics such as order discounts, sales, quantity, and profit, providing a holistic view for analysis.
